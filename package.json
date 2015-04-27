@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "gulp coffee react transform",
   "main": "index.js",
+  "repository": "https://github.com/ddiachkov/gulp-coffee-react-transform",
   "scripts": {
     "test": "mocha"
   },
